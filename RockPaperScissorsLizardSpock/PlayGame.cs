@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace RockPaperScissorsLizardSpock
 {
-    class Program
+    class PlayGame
     {
-        static void Main(string[] args)
-        {
-            PlayGame playGame = new PlayGame();
-        }
+        OutputToScreen welcome = new OutputToScreen()
     }
 }

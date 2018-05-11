@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Computer.cs" />
     <Compile Include="Human.cs" />
+    <Compile Include="OutputToScreen.cs" />
+    <Compile Include="PlayGame.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

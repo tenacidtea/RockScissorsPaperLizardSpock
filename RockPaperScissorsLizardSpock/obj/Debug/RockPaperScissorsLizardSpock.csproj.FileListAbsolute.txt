@@ -1,0 +1,7 @@
+C:\Users\dotarpa\Documents\devCodeCamp\projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.exe.config
+C:\Users\dotarpa\Documents\devCodeCamp\projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.exe
+C:\Users\dotarpa\Documents\devCodeCamp\projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\RockPaperScissorsLizardSpock.pdb
+C:\Users\dotarpa\Documents\devCodeCamp\projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.csprojAssemblyReference.cache
+C:\Users\dotarpa\Documents\devCodeCamp\projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.csproj.CoreCompileInputs.cache
+C:\Users\dotarpa\Documents\devCodeCamp\projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.exe
+C:\Users\dotarpa\Documents\devCodeCamp\projects\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\RockPaperScissorsLizardSpock.pdb
